@@ -14,6 +14,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### Screenshots of Web App.
+1)Lgin Page
+
+
+![image](https://user-images.githubusercontent.com/69806791/144704195-3adc1285-0650-443c-8720-7a96589beee1.png)
+
+
+
+2)GUI of Talk-Spot Web App
+![image](https://user-images.githubusercontent.com/69806791/144704281-25288ad0-ee1a-42c2-8ba4-4968bde79579.png)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
@@ -45,5 +57,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Screenshots of Web App.
-![image](https://user-images.githubusercontent.com/69806791/144704195-3adc1285-0650-443c-8720-7a96589beee1.png)
+
