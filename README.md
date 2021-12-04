@@ -15,7 +15,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### Screenshots of Web App.
-1)Lgin Page
+1)Login Page
 
 
 ![image](https://user-images.githubusercontent.com/69806791/144704195-3adc1285-0650-443c-8720-7a96589beee1.png)
