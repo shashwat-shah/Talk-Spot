@@ -15,6 +15,9 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### Screenshots of Web App.
+
+<!--Please click the image below to enlarge.-->
+
 1)Login Page
 
 
